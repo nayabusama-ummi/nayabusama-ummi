@@ -105,10 +105,15 @@ Rapid iteration · bug isolation · customer feedback integration
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayabusama-ummi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Nayab's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nayabusama-ummi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Nayab's GitHub Stats" />
 </td>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayabusama-ummi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nayabusama-ummi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <img src="https://streak-stats.demolab.com/?user=nayabusama-ummi&theme=tokyonight&hide_border=true&background=0b1120&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8" alt="Nayab's GitHub Streak" />
 </td>
 </tr>
 </table>
