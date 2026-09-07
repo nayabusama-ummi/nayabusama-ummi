@@ -1,191 +1,238 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Nayab Usama — Full-Stack Developer and Software Engineer" />
+<img src="./assets/hero.svg" width="100%" alt="Nayab Usama — Full-Stack Software Engineer" />
 
 <br/>
 
-<a href="mailto:usamanayab505@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nayab-usama/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/nayabusama-ummi?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+products+that+survive+production+%E2%80%94+not+just+demos.;React+%2B+TypeScript+%2B+Node.js+%7C+Django+%2B+PostgreSQL;Commerce+%C2%B7+Real-Time+Collab+%C2%B7+Analytics+%C2%B7+AI+Integrations;console.log('Production+ready+%F0%9F%9A%80');+%2F%2F+Passed+all+tests" alt="Typing introduction" />
+
+<br/>
+
+<a href="mailto:usamanayab505@gmail.com"><img src="https://img.shields.io/badge/EMAIL-USAMANAYAB505%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nayab-usama/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nayabusama-ummi?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<a href="./assets/Nayab_Usama_Full-Stack_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-VIEW%20PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" /></a>
+
+<br/><br/>
+
+**Software Engineering graduate (NUML, 2026) based in Multan, Pakistan.**  
+I engineer across the full product spectrum — from intuitive UI systems and stateful user flows to scalable REST APIs, relational schemas, RBAC permissions, automated testing, and cloud deployments.
 
 </div>
 
-<br/>
-
-### I build products that have to work — not just demos.
-
-**Full-stack developer · Software Engineering graduate (NUML, 2026) · Multan, Pakistan**
-
-React/TypeScript on the frontend. Node.js or Django behind it. PostgreSQL/MongoDB underneath.  
-I like products with **real workflows**: permissions, checkout, collaboration, analytics, AI features, and polished UI.
-
 ---
 
-## ⚡ Snapshot
+## ⚡ At a glance
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%"><b>56</b><br/><sub>SunGrid screens</sub></td>
-<td align="center" width="25%"><b>~40</b><br/><sub>REST endpoints</sub></td>
-<td align="center" width="25%"><b>9</b><br/><sub>Django models</sub></td>
-<td align="center" width="25%"><b>4</b><br/><sub>Development internships</sub></td>
-</tr>
-</table>
-
----
-
-## 🟦 Now shipping
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### Software Developer Intern — Havit
-
-Building the **TSC Lab** client-facing platform for a Korean skincare manufacturing / private-label business.
-
-- React 18 · JavaScript · React Router · Vite
-- responsive interfaces across desktop / tablet / mobile
-- reusable components + formulation / quote-request flows
-- team workflow with Development, SQA and Marketing
-
-<a href="https://tsc-lab-platform.vercel.app/"><b>↗ Open TSC Lab</b></a>
-
+<td align="center" width="25%">
+  <b>NOW SHIPPING</b><br/>
+  <sub>Software Developer Intern</sub><br/>
+  <b>Havit</b>
 </td>
-<td width="42%" valign="top">
-
-### Current focus
-
-`React architecture`  
-`Product UI`  
-`Responsive systems`  
-`API integration`  
-`Debugging`  
-`Shipping with Vercel`
-
-**Workflow:** ClickUp · Google Meet · Google Chat
-
+<td align="center" width="25%">
+  <b>ACTIVE BUILD</b><br/>
+  <sub>Client-facing product</sub><br/>
+  <b>TSC Lab Platform</b>
+</td>
+<td align="center" width="25%">
+  <b>CORE CRAFT</b><br/>
+  <sub>Production engineering</sub><br/>
+  <b>Full-Stack + UI</b>
+</td>
+<td align="center" width="25%">
+  <b>APPLIED AI</b><br/>
+  <sub>ML &amp; LLM integration</sub><br/>
+  <b>Gemini · scikit-learn</b>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🚀 Featured work
+## 🚢 Now shipping
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●%20ACTIVE%20BUILD-HAVIT-238636?style=for-the-badge" alt="Active build at Havit" />
+
+### TSC Lab — Client-Facing Manufacturing Platform
+
+Engineering a high-performance React application for a **Korean skincare manufacturing &amp; private-label enterprise**.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
+
+### `PRODUCT ARCHITECTURE`
+
+**Interactive formulation &amp; quotation experience**
+
+`React 18` · `TypeScript / JS` · `React Router` · `Vite`
+
+Reusable UI systems · responsive layouts · multi-step product inquiries
+
+</td>
+<td align="center" width="50%">
+
+### `TEAM DELIVERY`
+
+**Thriving inside high-velocity cross-functional teams**
+
+`ClickUp` · `SQA Testing` · `Marketing` · `Vercel CI/CD`
+
+Rapid iteration · bug isolation · customer feedback integration
+
+</td>
+</tr>
+</table>
+
+<a href="https://tsc-lab-platform.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20TSC%20LAB-LIVE%20DEPLOYMENT-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Open TSC Lab" /></a>
+
+</div>
+
+---
+
+## 📊 Activity & telemetry
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayabusama-ummi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Nayab's GitHub Stats" />
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayabusama-ummi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured engineering
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
 ### ⌚ NAYAB
 **Fine Watchmaking Digital Flagship**
 
-`React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `GSAP`
+`React` · `TypeScript` · `Node.js` · `Express`  
+`Prisma` · `PostgreSQL` · `GSAP`
 
-**Core engineering**
-- transactional checkout + inventory validation
-- guest → user cart migration
-- immutable order / price snapshots
-- authenticated account + admin workflows
-- 50+ automated tests
+Transactional checkout · real-time inventory validation  
+Guest-to-authenticated cart migration · immutable order snapshots  
+Full admin management dashboard · GSAP fluid micro-animations
 
-**Signal:** full-stack commerce integrity + premium UI
+<br/>
+
+<a href="https://nayab-watches.vercel.app/"><img src="https://img.shields.io/badge/NAYAB-LIVE%20FLAGSHIP-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="NAYAB live" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🧩 Klyro
-**Real-time Collaborative Workspace**
+**Real-Time Collaborative Workspace**
 
-`React` `TypeScript` `Node.js` `Express` `Socket.IO` `PostgreSQL` `Prisma`
+`React` · `TypeScript` · `Node.js` · `Express`  
+`Socket.IO` · `PostgreSQL` · `Prisma`
 
-**Core engineering**
-- Owner / Admin / Member authorization
-- synchronized Kanban workflows
-- projects, tasks, memberships, comments
-- optimistic UI with rollback
-- 58-test Vitest / Supertest suite
+Multi-role authorization (Owner / Admin / Member)  
+Synchronized Kanban board with optimistic concurrency &amp; rollback  
+Project task streams · realtime socket subscriptions · 58 Vitest tests
 
-<a href="https://klyro-blush.vercel.app/"><b>↗ Live project</b></a>
+<br/>
+
+<a href="https://klyro-blush.vercel.app/"><img src="https://img.shields.io/badge/KLYRO-LIVE%20APP-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="Klyro live" /></a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### ☀️ SunGrid
 **AI-Powered Solar Marketplace**
 
-`React` `Python` `Django REST Framework` `PostgreSQL` `scikit-learn` `Gemini`
+`React` · `Python` · `Django REST Framework`  
+`PostgreSQL` · `scikit-learn` · `Gemini API`
 
-**By the numbers**
-- **56** application screens
-- **~40** REST endpoints
-- **9** PostgreSQL-backed Django models
+**56 application screens** · **~40 REST endpoints** · **9 Django models**  
+Collaborative filtering recommendation engine  
+Random Forest pricing predictions · domain-restricted Gemini copilot
 
-**AI layer**
-- collaborative-filtering recommendations
-- Random Forest pricing prediction
-- domain-restricted Gemini assistant
+<br/>
 
-<a href="https://sungrid1-nayab-builts.vercel.app/"><b>↗ Live project</b></a>
+<a href="https://sungrid1-nayab-builts.vercel.app/"><img src="https://img.shields.io/badge/SUNGRID-LIVE%20DEMO-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="SunGrid live" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### ⚽ FC ULTRA
-**Football Analytics & Scouting Intelligence**
+**Football Analytics &amp; Scouting Intelligence**
 
-`React 18` `Node.js` `Express` `MongoDB` `Recharts` `Three.js`
+`React 18` · `Node.js` · `Express` · `MongoDB`  
+`Recharts` · `Three.js`
 
-**Core engineering**
-- StatsBomb-based data pipelines
-- P25 / P50 / P75 / P90 / P95 benchmarking
-- player comparison + scouting visualizations
-- shot maps + pass networks
-- MongoDB aggregation + caching
-- interactive WebGL data sculpture
+StatsBomb event data ingestion pipelines  
+P25 / P50 / P75 / P90 / P95 percentile benchmarking  
+Player comparisons · dynamic shot maps · pass networks  
+Interactive WebGL 3D data visualization
 
-**Signal:** data engineering + analytics UX
+<br/>
+
+<img src="https://img.shields.io/badge/SPECIALTY-DATA%20%2B%20ANALYTICS%20UX-8957E5?style=flat-square" alt="Data and analytics UX" />
 
 </td>
 </tr>
 </table>
 
+---
+
 <details>
-<summary><b>More builds — 14th Street Pizza + NovaMart</b></summary>
+<summary align="center"><b>📂 Click to expand more builds — 14th Street Pizza &amp; NovaMart</b></summary>
+
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🍕 14th Street Pizza
-**Full-stack ordering + brand experience**
+**Full-Stack Food Ordering &amp; Brand Experience**
 
-`React` `TypeScript` `Vite` `Node.js` `Express` `Zod`
+`React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `Zod`
 
-- six-stage product customization
-- responsive ordering UI
-- server-authoritative pricing
-- REST order flows
-- 30-test Vitest / Supertest suite
+Six-stage dynamic product configurator · responsive ordering UX  
+Server-authoritative pricing calculation · 30-test Vitest / Supertest suite
 
-<a href="https://14street-pizza-brand-rebuild.vercel.app/"><b>↗ Live project</b></a>
+<br/>
+
+<a href="https://14street-pizza-brand-rebuild.vercel.app/"><img src="https://img.shields.io/badge/14TH%20STREET-LIVE%20BUILD-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="14th Street Pizza live" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🛒 NovaMart
-**Qwetrum Technologies internship capstone**
+**Qwetrum Technologies Internship Capstone**
 
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
+`HTML5` · `CSS3` · `Bootstrap` · `JavaScript`
 
-- Home / Shop / Product / Cart / Checkout
-- search, filtering and sorting
-- persistent cart state
-- mobile-first interface
+Full e-commerce catalog · instant multi-parameter filtering &amp; sorting  
+Browser-persistent localStorage cart · mobile-first responsive architecture
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROJECT-INTERNSHIP%20CAPSTONE-6E7681?style=flat-square" alt="Internship capstone" />
 
 </td>
 </tr>
@@ -195,134 +242,188 @@ Building the **TSC Lab** client-facing platform for a Korean skincare manufactur
 
 ---
 
-## 🧰 Stack
+## 🧰 Production tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,python,django,postgres,mongodb,prisma,git,github,vscode,vercel&perline=10" alt="Nayab Usama's technology stack" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Frontend**
-
-React 18/19  
-TypeScript  
-JavaScript ES6+  
-React Router  
-Vite  
-Tailwind CSS  
-Bootstrap  
-GSAP
-
-</td>
-<td width="33%" valign="top">
-
-**Backend + Data**
-
-Node.js / Express  
-Django / DRF  
-REST APIs  
-PostgreSQL  
-MongoDB / Mongoose  
-Prisma  
-Socket.IO  
-Zod
-
-</td>
-<td width="33%" valign="top">
-
-**AI + Product**
-
-scikit-learn  
-pandas / NumPy  
-Gemini API  
-Collaborative Filtering  
-Random Forest  
-Recharts  
-Three.js  
-Accessibility
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 Experience map
-
-| When | Role | Build / focus |
-|---|---|---|
-| **Sep 2026 → now** | **Software Developer Intern · Havit** | TSC Lab · client-facing React product |
-| **Aug 2026** | **Full-Stack Development Intern · CodeAlpha** | Klyro · realtime collaboration + RBAC |
-| **Aug 2026** | **Full-Stack Development Intern · Decode Lab** | 14th Street Pizza · full-stack ordering |
-| **Jun 2026** | **Software Development Intern · Qwetrum Technologies** | NovaMart · responsive e-commerce |
-| **2025–2026** | **Self-directed** | SunGrid · full-stack + AI/ML |
-
----
-
-## 🤖 AI + agentic work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Product AI
-
-- **Gemini API** → domain-restricted SunGrid assistant
-- **Collaborative filtering** → personalized solar recommendations
-- **Random Forest** → solar-system pricing estimation
-- **scikit-learn + pandas + NumPy** → modelling and data workflows
-
-</td>
-<td width="50%" valign="top">
-
-### Agent-assisted development
-
-I use:
-
-**Google Antigravity · Cursor · OpenCode**
-
-for:
-
-`codebase exploration` · `planning` · `debugging` · `refactoring` · `QA`
-
-> AI accelerates the loop; I still review, test and validate the output.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔁 How I build
-
-<img src="./assets/workflow.svg" width="100%" alt="Understand, model, build, verify, ship" />
-
----
-
-## 🎯 What I’m looking for
-
-**Full-Stack Development** · **Software Engineering** · **MERN / React** · **Frontend Engineering** · **Backend / API Development**
-
-I’m most interested in teams where I can own meaningful parts of a product across **UI, APIs, databases and reliability**.
-
-<div align="center">
-
-<br/>
-
-### Build something useful?
-
-<a href="mailto:usamanayab505@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nayab" /></a>
-<a href="https://www.linkedin.com/in/nayab-usama/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,python,django,postgres,mongodb,prisma,git,github,vscode,vercel&perline=9" alt="Technology stack" />
 
 <br/><br/>
 
-<sub>Full-stack products · collaborative systems · commerce · analytics · AI integrations</sub>
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+### 🎨 Frontend
+
+`React 18 / 19`  
+`TypeScript`  
+`JavaScript (ES6+)`  
+`React Router`  
+`Vite`  
+`Tailwind CSS`  
+`GSAP`
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### ⚙️ Backend &amp; Data
+
+`Node.js / Express`  
+`Django / Django REST`  
+`RESTful API Architecture`  
+`PostgreSQL`  
+`MongoDB`  
+`Prisma ORM`  
+`Socket.IO`
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🧠 AI &amp; Tooling
+
+`Google Gemini API`  
+`scikit-learn`  
+`pandas / NumPy`  
+`Collaborative Filtering`  
+`Random Forest`  
+`Recharts / Three.js`  
+`Git / GitHub CI`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience timeline
+
+<div align="center">
+
+| Timeline | Organization &amp; Role | Core Deliverables |
+|:---:|---|---|
+| **Sep 2026 → Present** | **Software Developer Intern · Havit** | Engineered client-facing **TSC Lab** React manufacturing platform |
+| **Aug 2026** | **Full-Stack Development Intern · CodeAlpha** | Architected **Klyro** real-time collaborative workspace &amp; RBAC |
+| **Aug 2026** | **Full-Stack Development Intern · Decode Lab** | Built **14th Street Pizza** ordering platform &amp; validation engine |
+| **Jun 2026** | **Software Development Intern · Qwetrum Technologies** | Developed **NovaMart** e-commerce application &amp; cart state |
+
+</div>
+
+---
+
+## 🤖 Applied AI &amp; modern agentic workflow
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🧠 Product AI Integrations
+
+**Google Gemini API**  
+Context-aware, domain-restricted assistant in SunGrid
+
+**Recommendation Systems**  
+Collaborative filtering for personalized product matching
+
+**Predictive Analytics**  
+Random Forest regression for solar system cost forecasting
+
+`scikit-learn` · `pandas` · `NumPy`
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### ⚡ Agent-Accelerated Velocity
+
+**Google Antigravity** · **Cursor** · **OpenCode**
+
+Leveraging AI coding agents for:
+
+`architecture & schema planning`  
+`rapid codebase exploration`  
+`refactoring & test coverage`  
+`deep debugging & SQA`
+
+> *"AI supercharges my iteration speed — rigorous code reviews, automated testing, and product judgment keep the output production-grade."*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔁 Engineering build loop
+
+<div align="center">
+
+<img src="./assets/workflow.svg" width="100%" alt="Discover, Architect, Build, Verify, Ship" />
+
+</div>
+
+---
+
+## 🕹️ Behind the terminal
+
+<div align="center">
+
+<table>
+<tr>
+<td width="46%" align="center" valign="middle">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIwMDhmbHBuNjgyaGVuNXBoeHR0NGQ3ZzZ4eGQwOGdtejVjNjhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHevqvSjCbdlGyEF6y/giphy.gif" width="310" alt="Coding at 2 AM" />
+
+<br/>
+<sub><i>“Works on my machine. Packaging my machine for production.”</i></sub>
+
+</td>
+<td width="54%" valign="top">
+
+### ☕ The Developer Reality Check
+
+```bash
+# Typical development journey:
+$ git checkout -b feat/groundbreaking-idea
+$ npm run build       # 8 Type errors found
+$ fix_typos()         # 12 Type errors found... wait what?
+$ brew_coffee()       # Root cause discovered in 3 seconds 💡
+$ git commit -m "fix: it works, do not breathe near it"
+$ git push origin main 🚀 # All green on CI!
+```
+
+**⚡ Dev Confidence Meter:**
+* **Building Full-Stack Systems:** `100%`
+* **Crushing Production Bugs:** `99%`
+* **Centering a `<div>` without Inspect Element:** `404 Not Found` 🔍
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Open to high-impact opportunities
+
+<div align="center">
+
+**Full-Stack Engineering** · **Frontend (React / TypeScript)** · **Backend &amp; API Development (Node / Django)**
+
+<br/>
+
+I thrive in teams building high-impact products where I can take ownership across  
+**intuitive product UI · performant APIs · reliable database schemas · clean architecture**
+
+<br/><br/>
+
+<a href="./assets/Nayab_Usama_Full-Stack_Resume.pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME-PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" /></a>
+<a href="mailto:usamanayab505@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nayab" /></a>
+<a href="https://www.linkedin.com/in/nayab-usama/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+<sub>Crafted with passion, TypeScript, and excessive amounts of coffee ☕</sub>
 
 </div>

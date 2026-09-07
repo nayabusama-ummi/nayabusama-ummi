@@ -1,42 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
-  <title id="title">Nayab Usama engineering workflow</title>
-  <defs>
-    <linearGradient id="flow" x1="0" x2="1">
-      <stop offset="0%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#58a6ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="180" rx="24" fill="#0d1117" stroke="#30363d"/>
-  <path d="M140 90 H1060" stroke="#30363d" stroke-width="4"/>
-  <path d="M140 90 H1060" stroke="url(#flow)" stroke-width="4" stroke-dasharray="120 800">
-    <animate attributeName="stroke-dashoffset" values="0;-920" dur="5.5s" repeatCount="indefinite"/>
-  </path>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="wfTitle wfDesc">
+  <title id="wfTitle">Nayab Usama's Production Engineering Workflow</title>
+  <desc id="wfDesc">Animated high-precision engineering lifecycle pipeline: Discover, Architect, Build, Verify, Ship</desc>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
-    <g transform="translate(150 90)">
-      <circle r="28" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-      <text y="6" fill="#f0f6fc" font-size="18" font-weight="700">01</text>
-      <text y="58" fill="#c9d1d9" font-size="15">Understand</text>
-    </g>
-    <g transform="translate(375 90)">
-      <circle r="28" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-      <text y="6" fill="#f0f6fc" font-size="18" font-weight="700">02</text>
-      <text y="58" fill="#c9d1d9" font-size="15">Model</text>
-    </g>
-    <g transform="translate(600 90)">
-      <circle r="28" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-      <text y="6" fill="#f0f6fc" font-size="18" font-weight="700">03</text>
-      <text y="58" fill="#c9d1d9" font-size="15">Build</text>
-    </g>
-    <g transform="translate(825 90)">
-      <circle r="28" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-      <text y="6" fill="#f0f6fc" font-size="18" font-weight="700">04</text>
-      <text y="58" fill="#c9d1d9" font-size="15">Verify</text>
-    </g>
-    <g transform="translate(1050 90)">
-      <circle r="28" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-      <text y="6" fill="#f0f6fc" font-size="18" font-weight="700">05</text>
-      <text y="58" fill="#c9d1d9" font-size="15">Ship</text>
-    </g>
+  <defs>
+    <linearGradient id="wfBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="50%" stop-color="#0c1322"/>
+      <stop offset="100%" stop-color="#080e1a"/>
+    </linearGradient>
+
+    <linearGradient id="flowPulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#818cf8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="wfGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif; }
+    
+    @keyframes trackDash {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -1000; }
+    }
+    @keyframes pulseNode {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+    }
+
+    .pulse-line {
+      stroke-dasharray: 140 860;
+      animation: trackDash 4.5s linear infinite;
+    }
+  </style>
+
+  <!-- Container Frame -->
+  <rect width="1200" height="210" rx="20" fill="url(#wfBg)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Top Micro Status Header -->
+  <g transform="translate(48, 30)">
+    <circle cx="6" cy="6" r="4" fill="#38bdf8"/>
+    <text x="20" y="10" fill="#64748b" class="mono" font-size="11" font-weight="700" letter-spacing="2">
+      ENGINEERING LIFECYCLE · FROM SPECS TO PRODUCTION
+    </text>
+  </g>
+
+  <!-- Base Connection Track -->
+  <line x1="120" y1="108" x2="1080" y2="108" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Glowing Animated Pulse Track -->
+  <line x1="120" y1="108" x2="1080" y2="108" stroke="url(#flowPulse)" stroke-width="4" stroke-linecap="round" class="pulse-line" filter="url(#wfGlow)"/>
+
+  <!-- Stage 01: Discover -->
+  <g transform="translate(130, 108)">
+    <circle r="30" fill="#0f172a" stroke="#38bdf8" stroke-width="2" filter="url(#wfGlow)"/>
+    <text y="6" fill="#38bdf8" class="mono" font-size="15" font-weight="800" text-anchor="middle">01</text>
+    <text y="52" fill="#f8fafc" class="sans" font-size="14" font-weight="700" text-anchor="middle">Discover &amp; ☕</text>
+    <text y="70" fill="#94a3b8" class="sans" font-size="11" text-anchor="middle">User flows &amp; specs</text>
+  </g>
+
+  <!-- Stage 02: Model -->
+  <g transform="translate(365, 108)">
+    <circle r="30" fill="#0f172a" stroke="#60a5fa" stroke-width="2" filter="url(#wfGlow)"/>
+    <text y="6" fill="#60a5fa" class="mono" font-size="15" font-weight="800" text-anchor="middle">02</text>
+    <text y="52" fill="#f8fafc" class="sans" font-size="14" font-weight="700" text-anchor="middle">Architect</text>
+    <text y="70" fill="#94a3b8" class="sans" font-size="11" text-anchor="middle">DB schema &amp; REST</text>
+  </g>
+
+  <!-- Stage 03: Build -->
+  <g transform="translate(600, 108)">
+    <circle r="32" fill="#0f172a" stroke="#818cf8" stroke-width="2.5" filter="url(#wfGlow)"/>
+    <text y="6" fill="#818cf8" class="mono" font-size="16" font-weight="800" text-anchor="middle">03</text>
+    <text y="52" fill="#f8fafc" class="sans" font-size="14" font-weight="700" text-anchor="middle">Build Clean</text>
+    <text y="70" fill="#94a3b8" class="sans" font-size="11" text-anchor="middle">React · TS · Django</text>
+  </g>
+
+  <!-- Stage 04: Verify -->
+  <g transform="translate(835, 108)">
+    <circle r="30" fill="#0f172a" stroke="#a855f7" stroke-width="2" filter="url(#wfGlow)"/>
+    <text y="6" fill="#c084fc" class="mono" font-size="15" font-weight="800" text-anchor="middle">04</text>
+    <text y="52" fill="#f8fafc" class="sans" font-size="14" font-weight="700" text-anchor="middle">Stress-Test</text>
+    <text y="70" fill="#94a3b8" class="sans" font-size="11" text-anchor="middle">Vitest · SQA · Edge cases</text>
+  </g>
+
+  <!-- Stage 05: Ship -->
+  <g transform="translate(1070, 108)">
+    <circle r="30" fill="#0f172a" stroke="#22c55e" stroke-width="2" filter="url(#wfGlow)"/>
+    <text y="6" fill="#4ade80" class="mono" font-size="15" font-weight="800" text-anchor="middle">05</text>
+    <text y="52" fill="#f8fafc" class="sans" font-size="14" font-weight="700" text-anchor="middle">Ship &amp; Monitor</text>
+    <text y="70" fill="#94a3b8" class="sans" font-size="11" text-anchor="middle">Vercel · Live metrics</text>
   </g>
 </svg>
