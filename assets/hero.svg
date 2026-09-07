@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nayab Usama — Full-Stack Developer</title>
+  <desc id="desc">Animated editorial banner for Nayab Usama's GitHub profile.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#080b12"/>
+      <stop offset="48%" stop-color="#0d1320"/>
+      <stop offset="100%" stop-color="#101a2f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="960" cy="82" r="170" fill="url(#glow)" filter="url(#soft)">
+    <animate attributeName="r" values="150;190;150" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".75;1;.75" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity=".18" stroke="#58a6ff" stroke-width="1">
+    <path d="M870 0V360"/><path d="M930 0V360"/><path d="M990 0V360"/><path d="M1050 0V360"/>
+    <path d="M800 70H1200"/><path d="M800 130H1200"/><path d="M800 190H1200"/><path d="M800 250H1200"/>
+  </g>
+
+  <rect x="70" y="62" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <text x="102" y="75" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="4">BUILD / SHIP / REFINE</text>
+
+  <text x="70" y="158" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="63" font-weight="800" letter-spacing="-2">NAYAB USAMA</text>
+  <text x="72" y="205" fill="#58a6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Full-Stack Developer · Software Engineer</text>
+  <text x="72" y="250" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">React · TypeScript · Node.js · Django · PostgreSQL · Product UI</text>
+
+  <g transform="translate(72 288)">
+    <rect width="470" height="2" rx="1" fill="url(#line)">
+      <animate attributeName="x" values="-140;140;-140" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(902 238)">
+    <circle cx="55" cy="55" r="47" fill="none" stroke="#30363d" stroke-width="9"/>
+    <circle cx="55" cy="55" r="47" fill="none" stroke="#58a6ff" stroke-width="9" stroke-linecap="round"
+            stroke-dasharray="210 100" transform="rotate(-90 55 55)">
+      <animateTransform attributeName="transform" type="rotate" from="-90 55 55" to="270 55 55" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="55" cy="55" r="7" fill="#58a6ff"/>
+  </g>
+</svg>
